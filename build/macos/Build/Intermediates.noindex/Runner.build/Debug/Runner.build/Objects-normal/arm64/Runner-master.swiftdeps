@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "db520aa541fa5671f438803ce7a3b169f146880ebe7c170a23668682ddb869fe"
+build_start_time: [1669961027, 107445001]
+build_end_time: [1669961029, 458365917]
+inputs:
+  "/Users/jennifertruong/StudioProjects/yale_market/macos/Flutter/GeneratedPluginRegistrant.swift": [1669961016, 107368469]
+  "/Users/jennifertruong/StudioProjects/yale_market/macos/Runner/AppDelegate.swift": [1669220893, 0]
+  "/Users/jennifertruong/StudioProjects/yale_market/macos/Runner/MainFlutterWindow.swift": [1669220893, 0]

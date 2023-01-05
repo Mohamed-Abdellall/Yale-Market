@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "472461484021",
+    "project_id": "yale-market",
+    "storage_bucket": "yale-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472461484021:android:f1f9c11cfc0f3c2e4d8abc",
+        "android_client_info": {
+          "package_name": "com.example.yale_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472461484021-hm9soa3p2f42j7ff83271ipc7s7e7j46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiZZoCj3_KZR2fn82kF5tdMiIKRT58UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472461484021-hm9soa3p2f42j7ff83271ipc7s7e7j46.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472461484021-s2knub6prq6k2rcd8u413kk22j739bmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yaleMarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

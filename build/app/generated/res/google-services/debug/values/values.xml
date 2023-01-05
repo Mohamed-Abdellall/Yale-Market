@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">472461484021-hm9soa3p2f42j7ff83271ipc7s7e7j46.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">472461484021</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsiZZoCj3_KZR2fn82kF5tdMiIKRT58UI</string>
+    <string name="google_app_id" translatable="false">1:472461484021:android:f1f9c11cfc0f3c2e4d8abc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsiZZoCj3_KZR2fn82kF5tdMiIKRT58UI</string>
+    <string name="google_storage_bucket" translatable="false">yale-market.appspot.com</string>
+    <string name="project_id" translatable="false">yale-market</string>
+</resources>
